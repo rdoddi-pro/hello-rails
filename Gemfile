@@ -34,3 +34,5 @@ group :development do
   gem 'web-console', '~> 2.0'
 end
 
+# Puma as application server
+gem 'puma'
